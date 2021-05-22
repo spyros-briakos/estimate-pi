@@ -1,8 +1,8 @@
 [
 {
   "id": "d033c156-5972-4767-ceb0-8a91a5c282db",
-  "name": "Team_Name",
-  "description": "This is a Project's Backlog!",
+  "name": "Team Name",
+  "description": "This is a project tracker board",
   "archived": false,
   "lists": [
   {
@@ -26,8 +26,7 @@
     {
       "id": "49ad2dd1-5c3e-42e7-c2f0-5c9b193fb676",
       "text": "Deploy the feature #1"
-    }
-   ]
+    }]
   },
   {
     "id": "e0984073-01ee-0f99-0226-4ce9985f3b85",
@@ -48,7 +47,7 @@
       "text": "Test the app before launching"
     }]
   },
-    {
+  {
     "id": "2f820d90-d965-179b-9957-bf396622a887",
     "name": "Sprint 2",
     "headerColor": "#607d8b",
@@ -95,7 +94,6 @@
     {
       "id": "fe8abdb4-41b6-b577-660c-ab4466bcea83",
       "text": "Update internal processes"
-    }
-  ]
-}]
+    }]
+  }]
 }]
