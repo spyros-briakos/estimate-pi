@@ -1,7 +1,7 @@
 [
 {
   "id": "d033c156-5972-4767-ceb0-8a91a5c282db",
-  "name": "Team Name",
+  "name": "Project's Name",
   "description": "This is a project tracker board",
   "archived": false,
   "lists": [
@@ -99,7 +99,7 @@
 },
 {
   "id": "0319aa8a-e1f4-6e8a-9717-c6f93e7d68b2",
-  "name": "Kanban Project",
+  "name": "Project's Name",
   "description": "This is a project Kanban?",
   "archived": false,
   "lists": [
@@ -152,5 +152,4 @@
     "archived": false,
     "items": []
   }]
-}
-]
+}]
