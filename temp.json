@@ -19,7 +19,7 @@
     {
       "id": "c7f25d4b-6a72-d0d5-7d03-fc0b8794fb94",
       "title": "Test the feature #1",
-      "text": "We are gonna do this and that...etc2"
+      "text": ""
     },
     {
       "id": "78ab7725-ddee-ba6a-c039-b581ea10e20e",
@@ -29,7 +29,7 @@
     {
       "id": "49ad2dd1-5c3e-42e7-c2f0-5c9b193fb676",
       "title": "Deploy the feature #1",
-      "text": "We are gonna do this and that...etc4"
+      "text": ""
     }]
   },
   {
@@ -41,7 +41,7 @@
     {
       "id": "081107d7-acb8-93bf-1e49-86da87bbbaf7",
       "title": "Build the demo app",
-      "text": "We are gonna do this and that...etc5"
+      "text": ""
     },
     {
       "id": "065d84e2-85e9-5845-23a8-64bfba70f2b3",
@@ -63,7 +63,7 @@
     {
       "id": "850ca944-ea57-40dd-dc53-1993c0a724d2",
       "title": "Set up app landing page",
-      "text": "We are gonna do this and that...etc8"
+      "text": ""
     },
     {
       "id": "e773b655-8314-23f1-9188-3d295b700cb2",
@@ -85,7 +85,7 @@
     {
       "id": "8d084b74-1e56-7b03-1c46-ebd5e15d6fc4",
       "title": "Project go live",
-      "text": "We are gonna do this and that...etc11"
+      "text": ""
     }]
   },
   {
@@ -97,7 +97,7 @@
     {
       "id": "2e855cd8-244d-9f18-3f9d-310b75ff1801",
       "title": "Gather post project feedback",
-      "text": "We are gonna do this and that...etc12"
+      "text": ""
     },
     {
       "id": "5ca2a09d-62b9-39da-c0b0-510694cf6d13",
@@ -153,17 +153,17 @@
     {
       "id": "b0f701c4-ad7f-2a99-7c59-a37dda5a966f",
       "title": "Build the demo app",
-      "text": "We are gonna do this and that...etc5"
+      "text": ""
     },
     {
       "id": "c2acf5a3-a008-6157-9f37-48b0aa9f8ee0",
       "title": "Put in some sample data in app",
-      "text": "We are gonna do this and that...etc6"
+      "text": ""
     },
     {
       "id": "ffad019d-0b23-d853-1c61-c86997a1b37b",
       "title": "Test the app before launching",
-      "text": "We are gonna do this and that...etc7"
+      "text": ""
     }]
   },
   {
